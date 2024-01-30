@@ -4,6 +4,9 @@
 This project implements a simple Parking Management System in C++. The system allows users to manage a parking lot where they can park and retrieve vehicles. It supports two types of vehicles: Cars and Motorcycles. 
 The program provides a console-based interface for users to interact with the system.
 
+*TechStack:*
+- C++ (Object Oriented Approach) Programming Language
+
 *Components:*
 
 *Vehicle Class (Base Class):*
